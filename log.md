@@ -9,12 +9,47 @@
 
 <!--**Link to work:** [Calculator App](http://www.example.com) -->
 
+## Template
+### Day X: MONTH X, 2018, DAYOFWEEK
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Links(s) to work**
+1.
+
 
 ### Day 1: January 1, 2018, Monday
 
 **Today's Progress**: https://twitter.com/NerdyToddGerdy/status/948022737108373504
 
-**Thoughts** I think I have started to understand the flow of ReactJs
+**Thoughts**: I think I have started to understand the flow of ReactJs
 
 **Link(s) to work**
 1. [after-bootcamps repo](https://github.com/After-bootcamp/dashboard)
+
+
+### Day 2: January 2, 2018, Tuesday
+
+**Today's Progress**: https://twitter.com/NerdyToddGerdy/status/948398734211207168
+
+**Thoughts**: I like this blog tutorial.  I Think I can really use Auth0 for After Bootcamp
+
+**Links(s) to work**
+1. https://auth0.com/blog/reactjs-authentication-tutorial/
+2. https://github.com/Toadilicious/chuck_norris_be
+3. https://github.com/Toadilicious/chuck_norris_fe
+
+
+### Day 3: January 3, 2018, Wednesday
+
+**Today's Progress**: https://twitter.com/NerdyToddGerdy/status/948653785349591040
+                      https://twitter.com/NerdyToddGerdy/status/948687306998910978
+
+**Thoughts**:  I came across an issue with my tutorial and received an error page!
+
+**Links(s) to work**
+1. https://auth0.com/blog/reactjs-authentication-tutorial/
+2. https://github.com/Toadilicious/chuck_norris_be
+3. https://github.com/Toadilicious/chuck_norris_fe
