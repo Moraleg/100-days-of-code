@@ -53,3 +53,14 @@
 1. https://auth0.com/blog/reactjs-authentication-tutorial/
 2. https://github.com/Toadilicious/chuck_norris_be
 3. https://github.com/Toadilicious/chuck_norris_fe
+
+### Day 4: January 4, 2018, Thursday
+
+**Today's Progress**: https://twitter.com/NerdyToddGerdy/status/949114202320523264
+
+**Thoughts**: I am curious how I can get this to reach out to a server.
+
+**Links(s) to work**
+1. https://auth0.com/blog/reactjs-authentication-tutorial/
+2. https://github.com/Toadilicious/chuck_norris_be
+3. https://github.com/Toadilicious/chuck_norris_fe
